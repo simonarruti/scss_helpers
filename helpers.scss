@@ -124,6 +124,14 @@ $font_size_xs: 11px;
   flex-direction: row-reverse;
 }
 
+.flex_direction_column {
+  flex-direction: column;
+}
+
+.flex_direction_column_reverse {
+  flex-direction: column-reverse;
+}
+
 
 // MARGIN & PADDING
 
